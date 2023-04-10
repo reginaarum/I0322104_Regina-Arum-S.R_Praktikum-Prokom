@@ -1,0 +1,4 @@
+pelanggan  {}
+alamat {}
+notelp{}
+# masukkan data
